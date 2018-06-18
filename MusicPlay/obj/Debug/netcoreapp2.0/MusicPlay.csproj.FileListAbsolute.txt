@@ -1,0 +1,11 @@
+D:\Coding\MusicPlay\MusicPlay\bin\Debug\netcoreapp2.0\MusicPlay.deps.json
+D:\Coding\MusicPlay\MusicPlay\bin\Debug\netcoreapp2.0\MusicPlay.runtimeconfig.json
+D:\Coding\MusicPlay\MusicPlay\bin\Debug\netcoreapp2.0\MusicPlay.runtimeconfig.dev.json
+D:\Coding\MusicPlay\MusicPlay\bin\Debug\netcoreapp2.0\MusicPlay.dll
+D:\Coding\MusicPlay\MusicPlay\bin\Debug\netcoreapp2.0\MusicPlay.pdb
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.csprojAssemblyReference.cache
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.csproj.CoreCompileInputs.cache
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.AssemblyInfoInputs.cache
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.AssemblyInfo.cs
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.dll
+D:\Coding\MusicPlay\MusicPlay\obj\Debug\netcoreapp2.0\MusicPlay.pdb
